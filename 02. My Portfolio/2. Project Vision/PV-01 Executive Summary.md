@@ -1,1 +1,5 @@
-...
+ArtComm is an application designed to create a platform where artists, especially digital artists to promote and sell their products. Existing websites/applications are complex, limit payment method, only English - language, hard for new artists to use. ArtComm addresses these issues by creating a user-friendly interface for new users, with clear and detailed instructions, diverse transaction methods, adding personal pages, a section for managing public orders, and private messaging between artists and buyers.
+
+ArtComm will have full functionality, from guiding you through the steps to promote commissions to exchanging, receiving, managing orders, and conducting transactions. In addition, it will also have multilingual support.
+
+ArtComm has many competitors such as VGen, YCH (Your Character Here), Deviant Art, and Ko-Fi. These platforms have done a good job promoting artists' products. However, they rely heavily on PayPal transactions, making transactions difficult. Additionally, some have access restrictions (requiring account creation), and complex interfaces unsuitable for beginners. This also presents an opportunity for ArtComm to step in and do a better job by compensating for the shortcomings of other platforms.

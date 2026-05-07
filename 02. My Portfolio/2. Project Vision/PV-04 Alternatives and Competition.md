@@ -1,1 +1,3 @@
-...
+There are multiple websites still active, like VGen, YCH (Your Character Here), Deviant Art, and Ko-Fi. These websites are doing a great job as a platform for commissioning and also have a team behind them to support users. But these websites are too complex, some of them also require creating an account to see content, and payment methods heavily rely on PayPal, which is not suitable for new artists and buyers.
+
+ArtComm focuses on creating friendly design, providing guidance for new artists and buyers, and making it easy for buyers to use, with more payment methods to choose from. ArtComm development direction focuses on making it easy for users to operate. Regardless of whether you are an artist or a buyer, it supports diverse payment methods, is easy to use, ensures safety and security, has a user-friendly interface for new users, and provides clear instructions.

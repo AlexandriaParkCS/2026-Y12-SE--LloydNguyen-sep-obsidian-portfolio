@@ -1,1 +1,5 @@
-...
+For new artists and buyers who looking for commission to easily interact with each other, user-friendly interface, easy transaction operations, and diverse payment methods. ArtComm application is having a friendly interface for new users, that providing a secure chat framework between buyers and artists, transparent transaction methods, and a clear transaction history, and a public order management system makes it easy for both parties to track their orders.
+
+Unlike any other platform that commission with complex steps and limited payment methods. ArtComm will give artists and buyers a platform that they can easily access and secure transactions, clearly instructions.
+
+ArtComm is a product developed from the perspective of new artists wanting to start commissioning and buyers wanting to place orders. It focuses on guidance and a user-friendly interface, making it easy for new users to access. It provides artists with a place to promote themselves and the products they want to offer. While ArtComm has some limitations in terms of transactions, it offers more diverse methods while still ensuring security.
