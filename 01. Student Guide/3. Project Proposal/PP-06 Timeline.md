@@ -12,3 +12,4 @@ This section describes the projected schedule with major milestones to manage ex
 | 6    | PWA Integration, Offline Support        | Beta                      |
 | 7    | Testing, Refinement                     | Initial Release Candidate |
 | 8    | Deployment, Documentation               | Final Release Candidate   |
+|      |                                         |                           |

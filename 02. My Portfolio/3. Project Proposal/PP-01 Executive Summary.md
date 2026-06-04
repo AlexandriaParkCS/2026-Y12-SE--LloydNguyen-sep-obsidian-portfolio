@@ -1,1 +1,5 @@
-...
+My friend is a high school student that has a very good background in drawing and hopes to develop her hobby into a part-time job to earn a small extra income. This project proposes the development of ArtComm, an art commission trading website, with security, convenient features, and a complete guide for beginners, responsive Progressive Web Application (PWA) built using Python and Flask. 
+
+The application will allow users to create accounts, create their own profile, promote their artworks and transactions, track for their orders and manage them, private message between artists and customers. Data will be stored in an SQL database that complies with privacy and security recommendations and standards. 
+
+The project will follow an Agile methodology, ensuring iterative development, regular testing, and user feedback. Deliverables will include working application and related source code, technical documentation, and a user guide. 

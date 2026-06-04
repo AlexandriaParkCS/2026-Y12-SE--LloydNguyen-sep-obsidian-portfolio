@@ -1,3 +1,10 @@
+  
+  
+  **The user that facing the problem**
+***My Friend***
+* **Description:** My friend is a year 10 student, she wanted to make some income in her free time, so she can buy what she wants on her own.
+* **Needs:** She needs a platform that she can upload her artworks, get commission and sell them.
+* **Success Criteria:** Clear instructions, Multiple payment methods (country's bank account/master card/pay pal/...), Secure transaction, Personal profile, Manage received orders and update the process in time, Secure messaging between her (artist) and customers (who requested for commission).
 ### Primary Stakeholders
 
 ***Artists***
